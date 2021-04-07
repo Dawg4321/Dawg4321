@@ -1,1 +1,1 @@
-https://github-readme-stats.vercel.app/api/top-langs/?username=dawg4321&layout=compact&show_icons=true&theme=nord
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawg4321)](https://github.com/anuraghazra/github-readme-stats)
