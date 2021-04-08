@@ -1,5 +1,5 @@
 # About me
-Hello all, my name is Ryan and welcome to my github page! I mainly use this to keep track of personal projects. I love a good challenge and learning new skills! Feel free to contact me if you want to chat.
+Hello all, my name is Ryan and welcome to my github page! I mainly use this to keep track of some of my personal projects. I love a good challenge and learning new skills! Feel free to contact me if you want to chat.
 
 ## Interests
 - Computing and Processors :computer:
