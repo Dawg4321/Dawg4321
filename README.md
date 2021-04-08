@@ -1,12 +1,12 @@
 # About me
 Hello all, my name is Ryan and welcome to my github page! I mainly use this to keep track of personal projects. I love a good challenge and learning new skills! Feel free to contact me if you want to chat.
 
-Some of my interests include:
-- Computing and Processors
-- Software Development
-- Baseball
-- Guitar
-- Hiking
+## Interests
+- Computing and Processors :computer:
+- Software Development :file_folder:
+-  Baseball :baseball:
+- Guitar :guitar:
+- Hiking :evergreen_tree:
 # Languages
 Some languages I have experience using include:
 - C/C++
