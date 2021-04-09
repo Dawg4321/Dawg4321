@@ -21,4 +21,4 @@ Note: The prevalence of languages on my github page is not a measure of my skill
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dawg4321&repo=neural_network_template&theme=gotham)](https://github.com/Dawg4321/neural_network_template)
 # More Examples of my Code
 This is a project I worked on as a group of two where we had to demonstrate knowledge on OOP concepts and pointers
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pieloaf&repo=DealDone)&theme=gotham)](https://github.com/Pieloaf/DealDone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pieloaf&repo=DealDone&theme=gotham)](https://github.com/Pieloaf/DealDone)
