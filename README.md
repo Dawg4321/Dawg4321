@@ -1,7 +1,7 @@
 # About me
 Hello all, my name is Ryan and welcome to my github page! I mainly use this to keep track of some of my personal projects. I love a good challenge and learning new skills! Feel free to contact me if you want to chat.
 
-## Interests
+# Interests
 - Computing and Processors :computer:
 - Software Development :file_folder:
 -  Baseball :baseball:
@@ -18,7 +18,7 @@ Some languages I have experience using include:
 
 Note: The prevalence of languages on my github page is not a measure of my skill or experience with them.
 # What I am Working on 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dawg4321&repo=neural_network_template&theme=gotham)](https://github.com/Dawg4321/neural_network_template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dawg4321&repo=TT-Assignment-Manager&theme=gotham)](https://github.com/Dawg4321/TT-Assignment-Manager)
 # More Examples of my Code
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pieloaf&repo=DealDone&theme=gotham)](https://github.com/Pieloaf/DealDone)
 
