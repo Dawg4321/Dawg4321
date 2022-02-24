@@ -18,7 +18,7 @@ Some languages I have experience using include:
 
 Note: The prevalence of languages on my github page is not a measure of my skill or experience with them.
 # What I am Working on 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dawg4321&repo=TT-Assignment-Manager&theme=gotham)](https://github.com/Dawg4321/multi-agent_maze_exploration_simulation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dawg4321&repo=multi-agent_maze_exploration_simulation&theme=gotham)](https://github.com/Dawg4321/multi-agent_maze_exploration_simulation)
 # More Examples of my Code
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pieloaf&repo=DealDone&theme=gotham)](https://github.com/Pieloaf/DealDone)
 
