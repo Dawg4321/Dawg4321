@@ -1,6 +1,6 @@
 # Welcome! ☕
 ## 👋 About me
-Hello all, welcome to my GitHub! My name is Ryan and I am a recent Computer Engineering from TU Dublin. Currently working on firmware development at Taoglas. I mainly use this to keep track of some of my personal projects. I love a good challenge and learning new skills! Feel free to contact me if you want to chat.
+Hello all, welcome to my GitHub! My name is Ryan and I am a recent Computer Engineering from TU Dublin. Currently working on IoT firmware development at Taoglas. I mainly use this to keep track of some of my personal projects. I love a good challenge and learning new skills! Feel free to contact me if you want to chat.
 
 ## ❤️ Passions
 - Computers :computer:
@@ -12,6 +12,9 @@ Hello all, welcome to my GitHub! My name is Ryan and I am a recent Computer Engi
 
 ## 🛠️ Language and Tools
 <div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawg4321&layout=compact&theme=gotham)]
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
@@ -20,8 +23,6 @@ Hello all, welcome to my GitHub! My name is Ryan and I am a recent Computer Engi
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="80" height="80"/>&nbsp;
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawg4321&layout=compact&theme=gotham)](https://github.com/Dawg4321/github-readme-stats)
 
 </div>
 
