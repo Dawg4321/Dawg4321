@@ -1,6 +1,6 @@
 # Welcome! ☕
 ## 👋 About me
-Hello all, welcome to my GitHub! My name is Ryan and I am a recent Computer Engineering from TU Dublin. Currently working on IoT firmware development at Taoglas. I mainly use this to keep track of some of my personal projects. I love a good challenge and learning new skills! Feel free to contact me if you want to chat.
+Hello all, welcome to my GitHub! My name is Ryan and I am a recent Computer Engineering graduate from TU Dublin. I am currently working on IoT firmware development at Taoglas! I mainly use this page to keep track of some of my personal projects. I love a good challenge and learning new skills! Feel free to contact me if you want to chat.
 
 ## ❤️ Passions
 - Computers :computer:
