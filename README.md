@@ -1,6 +1,6 @@
 # Welcome! ☕
 ## 👋 About me
-Hello all, welcome to my GitHub! My name is Ryan and I am a recent Computer Engineering graduate from TU Dublin. I am currently working on IoT firmware development at Taoglas! I mainly use this page to keep track of some of my personal projects. I love a good challenge and learning new skills! Feel free to contact me if you want to chat.
+Hello all, welcome to my GitHub! My name is Ryan and I am a recent Computer Engineering graduate from TU Dublin. I am currently working on IoT firmware development at Taoglas! I mainly use this GitHub to keep track of some of my personal projects. I love a good challenge and learning new skills! Feel free to contact me if you want to chat.
 
 ## ❤️ Passions
 - Computers :computer:
@@ -32,6 +32,3 @@ Hello all, welcome to my GitHub! My name is Ryan and I am a recent Computer Engi
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dawg4321&theme=gotham)](https://git.io/streak-stats)
 </div>  
-  
-## 🔖 Previous Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dawg4321&repo=multi-agent_maze_exploration_simulation&theme=gotham)](https://github.com/Dawg4321/multi-agent_maze_exploration_simulation)
