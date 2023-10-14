@@ -1,6 +1,6 @@
 # Welcome! ☕
 ## 👋 About me
-Hello all, welcome to my GitHub! My name is Ryan and I am a recent Computer Engineering graduate from TU Dublin. I am currently working on IoT firmware development at Taoglas! I mainly use this GitHub to keep track of some of my personal projects. I love a good challenge and learning new skills! Feel free to contact me if you want to chat.
+Hey! Welcome to my GitHub! I am a Master's Student @UoE with a passion for embedded systems. I have work experience in IoT firmware development at Taoglas! Feel free to contact me if you want to chat.
 
 ## ❤️ Passions
 - Computers :computer:
@@ -28,7 +28,6 @@ Hello all, welcome to my GitHub! My name is Ryan and I am a recent Computer Engi
 
 ## 📈 My Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dawg4321&show_icons=true&theme=gotham" alt="Dawg4321's GitHub Stats">
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dawg4321&theme=gotham)](https://git.io/streak-stats)
 </div>  
